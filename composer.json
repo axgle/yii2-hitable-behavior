@@ -1,0 +1,29 @@
+{
+    "name": "axgle/yii2-hitable-behavior",
+    "keywords": [
+        "yii2",
+        "hit counter"
+    ],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "require": {
+       
+    },
+ 
+    "authors": [
+        {
+            "name": "Aleksey Bernackiy",
+            "email": "usualdesigner@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "axgle\\yii2\\behavior\\": "src"
+        }
+    },
+     "extra": {
+        "branch-alias": {
+            "dev-master": "0.0.5-dev"
+        }
+    }
+}
