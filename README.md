@@ -1,13 +1,13 @@
 # Hitable behavior for Yii2
 
 ### Version
-v0.0.5
+v0.0.2
 
 ### Installation
 Run command
 
 ```
-composer require axgle/yii2-hitable-behavior
+composer require --no-plugins -vvv axgle/yii2-hitable-behavior
 ```
 
 or add
