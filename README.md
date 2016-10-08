@@ -10,14 +10,6 @@ Run command:
 composer require --no-plugins -vvv axgle/yii2-hitable-behavior
 ```
 
-or add
-
-```
-"axgle/yii2-hitable-behavior": "*"
-```
-
-to the require section of your `composer.json` file.
-
 ### Main migration
 
 ```
