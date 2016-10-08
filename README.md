@@ -1,7 +1,7 @@
 # Hitable behavior for Yii2
 
 ### Version
-v0.0.4
+v0.0.5
 
 ### Installation
 Run command:
@@ -22,18 +22,6 @@ to the require section of your `composer.json` file.
 
 ```
 yii migrate  --migrationPath=@axgle/yii2/behavior/migrations
-```
-or add
-
-```php
-$this->createTable('{{%hits}}', [
-    'hit_id' => $this->primaryKey(),
-    'user_agent' => $this->string()->notNull(),
-    'ip' => $this->string()->notNull(),
-    'target_group' => $this->string()->notNull(),
-    'target_pk' => $this->string()->notNull(),
-    'created_at' => $this->integer()->notNull(),
-]);
 ```
 
 ### Configuring
