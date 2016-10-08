@@ -4,7 +4,7 @@
 v0.0.3
 
 ### Installation
-Run command
+Run command:
 
 ```
 composer require --no-plugins -vvv axgle/yii2-hitable-behavior
