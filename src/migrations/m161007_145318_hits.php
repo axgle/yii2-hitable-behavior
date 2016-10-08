@@ -21,7 +21,7 @@ class m161007_145318_hits extends Migration {
             'target_pk' => $this->string()->notNull(),
             'created_at' => $this->integer()->notNull(),
         ]);
-        $this->createIndex('hits_uigp_idx', $this->tablename, ['user_agent', 'ip', 'target_group', 'created_at']);
+        $this->createIndex('hits_uigp_idx', $this->tablename, ['user_agent', 'ip', 'target_group', 'target_pk']);
     }
 
     public function down() {
