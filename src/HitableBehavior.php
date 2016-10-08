@@ -1,7 +1,7 @@
 <?php
 /**
  * @link https://github.com/axgle/yii2-hitable-behavior
- * @copyright Copyright (c) 2016 Aleksey Bernackiy
+ * @copyright Copyright (c) 2016 Axgle
  * 
  * @link https://github.com/usualdesigner/yii2-behaviors-hit
  * @copyright Copyright (c) 2015 Aleksey Bernackiy
