@@ -14,6 +14,10 @@
         {
             "name": "Aleksey Bernackiy",
             "email": "usualdesigner@gmail.com"
+        },
+         {
+            "name": "axgle",
+            "email": "axgles@gmail.com"
         }
     ],
     "autoload": {
