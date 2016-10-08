@@ -1,5 +1,9 @@
 <?php
-
+/**
+ * @link https://github.com/axgle/yii2-hitable-behavior
+ * @copyright Copyright (c) 2016 Axgle
+ * @license http://opensource.org/licenses/BSD-3-Clause
+ */
 use yii\db\Migration;
 
 class m161007_145318_hits extends Migration {
