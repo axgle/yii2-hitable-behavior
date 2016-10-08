@@ -1,7 +1,7 @@
 # Hitable behavior for Yii2
 
 ### Version
-v0.0.5
+v0.0.6
 
 ### Installation
 Run command:
